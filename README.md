@@ -1,0 +1,1 @@
+# lambda-image-resizer
